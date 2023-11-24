@@ -68,7 +68,6 @@ import datetime
 
 # get the current date and time
 now = datetime.datetime.now()
-dyar = input('NAWUT BNUSA : ')
 logo =f"""                                                                        
 \033[1;37m
 ▒███████▒▓█████  ██▀███   ▒█████  
